@@ -36,6 +36,10 @@ minima:
   social_links:
     github: thomas-la
     linkedin: thomas-la-6671a8175
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/thomas-la" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/thomas-la-6671a8175" }
     # youtube:
     # youtube_channel:
     # youtube_channel_name:
