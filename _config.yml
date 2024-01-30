@@ -27,6 +27,7 @@ repository: thomas-la/blog
 
 # Build settings
 plugins:
+  - jekyll-feed
   - jekyll-remote-theme
 
 remote_theme: jekyll/minima
